@@ -1,4 +1,4 @@
-# 📚 StudyMentor — Smart Study Planner & Productivity Hub
+# 📚 AetherStudy — Smart Study Planner & Productivity Hub
 
 <div align="center">
 
